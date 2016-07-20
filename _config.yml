@@ -1,14 +1,26 @@
-layout_spectrum: 0.5674159
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.7526882
 color:
-  saturation: 0.5824373
+  saturation: 0.5985663
   brandStrength: 0.8193077
-  lightness: 0.5053763
-  rhythmicContrast: 0.3082437
+  lightness: 0.6523297
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+  rhythmicContrast: 0.4301075
+layout_spectrum: 0.5674159
 name: Secure Your SAP System
