@@ -1,0 +1,14 @@
+layout_spectrum: 0.5674159
+typography_spectrum: 0.7526882
+color:
+  saturation: 0.5824373
+  brandStrength: 0.8193077
+  lightness: 0.5053763
+  rhythmicContrast: 0.3082437
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Secure Your SAP System
